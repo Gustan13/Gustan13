@@ -4,7 +4,7 @@ I'm a computer science student at UFPR and I like making video games.
 
 ## My Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=swift,c,c#,py)](https://skillicons.dev)
 
 ## My Stats
 
